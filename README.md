@@ -40,17 +40,16 @@
 | ⚖️ **Comparisn.py** | Compares two numbers using relational operators. |
 | 🧩 **type.py** | Demonstrates Python’s `type()` function to identify variable data types. |
 
----
+--
 
-## 🌈 Visual Representation of Program Complexity
+##  Visual Representation of Program Complexity
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['HelloWorld','Sum','Square','Average','Type','Comparison'],datasets:[{data:[10,20,25,30,35,40],backgroundColor:['#4B8BBE','#FFD43B','#306998','#FFE873','#9B59B6','#E74C3C']}]},options:{plugins:{legend:{position:'bottom'}}}}" width="400" alt="Program Complexity Chart" />
+  <img src="https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'HelloWorld'%2C'Sum'%2C'Square'%2C'Average'%2C'Type'%2C'Comparison'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B10%2C20%2C25%2C30%2C35%2C40%5D%2CbackgroundColor%3A%5B'%234B8BBE'%2C'%23FFD43B'%2C'%23306998'%2C'%23FFE873'%2C'%239B59B6'%2C'%23E74C3C'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D" alt="Program Complexity Chart" />
 </p>
 
-*(The chart above shows the relative complexity and learning curve — all beginner-friendly!)*
+*(The chart above shows the relative complexity and learning curve — all beginner-friendly!)*  
 
----
 
 ## 🚀 How to Run
 Make sure **Python 3** is installed, then run any file using:

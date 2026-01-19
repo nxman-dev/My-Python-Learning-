@@ -2,12 +2,12 @@
   <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="350" alt="Python Logo">
 </p>
 
-<h1 align="center">🐍 My First Python Programs 🚀</h1>
+<h1 align="center">🐍 My First Python Journey 🚀</h1>
 
 <p align="center">
-  <b>A collection of my very first Python scripts</b><br>
-  covering printing, arithmetic, comparison, and basic data types.<br>
-  Each program builds a small step toward mastering Python fundamentals!
+  <b>A comprehensive collection of my foundational Python scripts</b><br>
+  From basic syntax to logical branching and data manipulation.<br>
+  <i>Every script represents a milestone in my coding progress!</i>
 </p>
 
 ---
@@ -15,12 +15,11 @@
 ## 🌀 Learning Progress Visualization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HelloWorld-Basic-blue?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Sum-Arithmetic-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Square-Math-lightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Average-Calculation-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-DataTypes-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Comparison-Logic-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Basics-Hello%20World-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Math-Arithmetic-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Logic-Conditionals-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Type%20Conversion-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Input-User%20Interaction-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -29,29 +28,40 @@
 
 ---
 
-## 📂 Files Included
+## 📂 Project Structure
 
-| File Name | Description |
-|------------|-------------|
-| 🖨️ **HelloWorld.py** | The classic first program — prints a simple greeting. |
-| ➕ **sum.py** | Takes two numbers and displays their sum. |
-| 🔢 **square.py** | Calculates and prints the square of a number. |
-| 📊 **average.py** | Finds the average of given numbers. |
-| ⚖️ **Comparisn.py** | Compares two numbers using relational operators. |
-| 🧩 **type.py** | Demonstrates Python’s `type()` function to identify variable data types. |
+| File Name | Topic | Description |
+| :--- | :--- | :--- |
+| 👋 **Hello World.py** | Basics | The classic entry point to programming. |
+| 📦 **Variable.py** | Foundations | Learning how to store and name data. |
+| 🧩 **Type.py** | Data Types | Inspecting data using the `type()` function. |
+| 🔄 **Type Conversion.py** | Casting | Converting between strings, integers, and floats. |
+| ➕ **Arithmetic Operations.py** | Math | Performing addition, subtraction, and more. |
+| 🔀 **String Concatenation.py**| Strings | Merging multiple strings together. |
+| ⌨️ **input1.py** | Interaction | Capturing user input from the terminal. |
+| ⚖️ **Comparison.py** | Logic | Using boolean operators ($>, <, ==$). |
+| 🚦 **Condition.py** | Control Flow | Introduction to `if/else` statements. |
+| 🚦 **Condition2 Traffic light.py**| Logic | A practical application of `elif` logic. |
+| 🧮 **Simple Calculator.py** | Project | A functional tool combining math and input. |
+| 🏆 **Practice Challenge.py** | Review | A cumulative exercise testing all skills. |
 
---
+---
 
-##  Visual Representation of Program Complexity
+## 📊 Skill Distribution
 
 <p align="center">
-  <img src="https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'HelloWorld'%2C'Sum'%2C'Square'%2C'Average'%2C'Type'%2C'Comparison'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B10%2C20%2C25%2C30%2C35%2C40%5D%2CbackgroundColor%3A%5B'%234B8BBE'%2C'%23FFD43B'%2C'%23306998'%2C'%23FFE873'%2C'%239B59B6'%2C'%23E74C3C'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D" alt="Program Complexity Chart" />
+  <img src="https://quickchart.io/chart?width=500&height=300&c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Basics'%2C'Math'%2C'Logic'%2C'Data%20Handling'%2C'Projects'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B15%2C20%2C25%2C25%2C15%5D%2CbackgroundColor%3A%5B'%234B8BBE'%2C'%23FFD43B'%2C'%23306998'%2C'%23FFE873'%2C'%23646464'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D" alt="Skill Chart" />
 </p>
 
-*(The chart above shows the relative complexity and learning curve — all beginner-friendly!)*  
+---
 
+## 🚀 Getting Started
 
-## 🚀 How to Run
-Make sure **Python 3** is installed, then run any file using:
+### Prerequisites
+- Install [Python 3.x](https://www.python.org/downloads/)
+
+### How to Run
+Clone this repository and run any file using your terminal:
 ```bash
-python filename.py
+# Example: Running the Traffic Light program
+python "Condition2 Traffic light.py"
